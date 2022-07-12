@@ -3131,7 +3131,7 @@
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span, .dropotron li:hover > a, .dropotron li:hover > span {
-				background: #128227;
+				background: #104eaa;
 				color: #ffffff;
 			}
 
@@ -3224,6 +3224,12 @@
 			#banner .button.primary {
 				background: #fff;
 				color: #666 !important;
+			}
+			#banner .button.red{
+				background: rgb(158, 27, 27);
+			}
+			#banner .button.blue{
+				background: rgb(29, 29, 161);
 			}
 
 /* Main */
